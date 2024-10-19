@@ -1,7 +1,7 @@
 ![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Kartik Badiger</h1>
 I'm Kartik Badiger, a passionate developer who loves coding and creating awesome things. 
-Welcome to my GitHub profile!
+
 
 ## About Me
 
