@@ -22,8 +22,7 @@ Welcome to my GitHub profile!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-badiger-?)
 
 
-
-
+![AI Coding Image](./assets/ai-coding-image.png)
 
 
 
