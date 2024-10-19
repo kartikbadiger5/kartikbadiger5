@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kartik-badiger-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSCoBAy%2B%2FQAKyK1S9jJHxcw%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kartik-badiger-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BSCoBAy%2B%2FQAKyK1S9jJHxcw%3D%3D))
 
 
 
