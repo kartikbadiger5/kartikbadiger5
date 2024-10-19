@@ -8,7 +8,6 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on AI Chatbot
 - 🌱 I’m currently learning LLM
 - 👯 I’m looking to collaborate on OpenSource
-- 💬 Ask me about I am MCA STUDENT 
 - 📫 How to reach me: [kartikbadiger727@gmail.com](mailto:kartikbadiger727@gmail@example.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikbadiger5&label=Profile%20views&color=0e75b6&style=flat" alt="kartikbadiger5" /> </p>
