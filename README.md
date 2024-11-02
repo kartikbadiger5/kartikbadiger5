@@ -4,10 +4,27 @@
 
 
 ## About Me
+Hello! I'm a beginner developer learning Python, HTML, and CSS, with a growing interest in Large Language Models (LLMs). 
+I'm passionate about building my skills and exploring how AI can make a difference in real-world applications.
 
-- 🔭 I’m currently working on AI Chatbot
+- 🔭Skills & Interests:
+
+  -  Python: Learning programming fundamentals and building  projects.
+  -  Frontend Basics: Creating  responsive designs using HTML and CSS.
+  -  LLM Exploration: Diving into the basics of LLMs and understanding how they work.
+  
+- 👯Journey & Contributions:
+ 
+  - Completed several pull requests for Hacktoberfest 2024 as I explore open-source contributions.
+     Eager to take on new projects, grow my skills, and connect with other developers in the community.
+   
+    
+- 🌱 Learning every day and excited to collaborate on beginner-friendly projects!
+
+- 🌱 I’m currently working on AI Chatbot
+
 - 🌱 I’m currently learning LLM
-- 👯 I’m looking to collaborate on OpenSource
+
 - 📫 How to reach me: [kartikbadiger727@gmail.com](mailto:kartikbadiger727@gmail@example.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikbadiger5&label=Profile%20views&color=0e75b6&style=flat" alt="kartikbadiger5" /> </p>
